@@ -1,5 +1,5 @@
 # WebDevBeginner
-HTML CSS JS WEB LEARNING
+<h1><b>HTML CSS JS WEB LEARNING</b></h1>
 <br>
 1.fork this repo
 <br>
